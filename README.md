@@ -9,9 +9,8 @@
 
 
 The most famous competition over the kaggle .
-In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their __Machine Learning Journey__. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
+In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
 
-__Quick Start__: <a href="https://nbviewer.jupyter.org/github/AIVenture0/Titanic--Survival-Prediction/blob/master/Titanic.ipynb" target="_blank">View </a> a static version of the notebook in the comfort of your own web browser
 
 
 ## Usage
