@@ -21,12 +21,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-## Overview
-Code in the repo is for the one who just begin with kaggle's Titanic competition.This basically explains all the basic concept ,
-How to approach the any competition over kaggle and how to start with it. ```This notebook will not make you an expert but too damn sure it will guide you to How to get started and rest is up to you ..```
-
-
-<p align="center"> 
+p align="center"> 
 <img src="https://cdn2.iconfinder.com/data/icons/greenline/512/camera-512.png" width='50px' height='50px'>
 </p>
 
